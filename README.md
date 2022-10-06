@@ -1,4 +1,5 @@
-:brazil::flags: Saulo Rosa Profissional formado pela UEPG e pós-graduado UTFPR,  
+:brazil::flags: Saulo Rosa Profissional formado pela UEPG e pós-graduado UTFPR, 
+
 :ticket:Pofessor  Geografia da SEED/PR, 
 :technologist:MBA em Gestao em TI pela Faculdade Santana, Instituto Doll, 
 :man_student:Analise Ambiental pela UFPR, 
