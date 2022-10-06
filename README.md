@@ -10,3 +10,4 @@
 :mailbox_with_no_mail:saulorosa@escola.pr.gov.br
 :point_right: facebook saulorisadarosa
 :point_right: instagran rosasaulo
+:teacher:linkedin
